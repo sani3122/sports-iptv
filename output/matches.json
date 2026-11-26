@@ -12,7 +12,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795564800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "275/3 | Victoria trail by 12 runs",
+    "description": "394/8 | Victoria lead by 107 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -23,24 +23,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -64,7 +64,7 @@
     "time": "08:30 AM",
     "start_timestamp_ms": 1795573800000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "342/10 & 42/2 | Tasmania trail by 55 runs",
+    "description": "342/10 & 68/3 | Tasmania trail by 29 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -75,24 +75,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -100,570 +100,6 @@
         "quality": "Live",
         "type": "m3u8",
         "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880140_20261126",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Bolton Wanderers",
-    "team2": "West Bromwich Albion",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/358.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/383.png",
-    "date": "2026-11-26",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795635900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | HT",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880139_20261126",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Burnley",
-    "team2": "Birmingham City",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
-    "date": "2026-11-26",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795635900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | HT",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880137_20261126",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Watford",
-    "team2": "Blackburn Rovers",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/395.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/365.png",
-    "date": "2026-11-26",
-    "time": "01:45 AM",
-    "start_timestamp_ms": 1795635900000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | HT",
-    "meta_keywords": "LIVE",
-    "official_tv": [],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401880138_20261126",
-    "category": "Football",
-    "event_name": "EFL Championship",
-    "league_priority": 2,
-    "team1": "Stoke City",
-    "team2": "Millwall",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/391.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "2 : 0 | 45'+3'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sky Sports 1",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "http://45.228.234.9:8000/play/a06b/index.m3u8"
-      },
-      {
-        "title": "CBS Sports Golazo Network",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
-      },
-      {
-        "title": "beIN Sports 1",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
-      },
-      {
-        "title": "Bein Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "title": "beIN Sports 2",
-        "quality": "Live",
-        "type": "m3u8",
-        "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915291_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Atlético Madrid",
-    "team2": "Viking FK",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "2 : 0 | HT",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915292_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Club Brugge",
-    "team2": "Liverpool",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | 45'+1'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915376_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Internazionale",
-    "team2": "VfB Stuttgart",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 45'+2'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915377_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Lille",
-    "team2": "Bayern Munich",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 1 | HT",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915374_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Paris Saint-Germain",
-    "team2": "AS Roma",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "1 : 1 | 45'+1'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915375_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Shakhtar Donetsk",
-    "team2": "Fenerbahce",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "0 : 0 | 45'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "foot_401915373_20261126",
-    "category": "Football",
-    "event_name": "UEFA Champions League",
-    "league_priority": 5,
-    "team1": "Sporting CP",
-    "team2": "Manchester United",
-    "logo1": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-    "logo2": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-    "date": "2026-11-26",
-    "time": "02:00 AM",
-    "start_timestamp_ms": 1795636800000,
-    "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "1 : 0 | 45'+3'",
-    "meta_keywords": "LIVE",
-    "official_tv": [
-      "Paramount+"
-    ],
-    "stream_ads": [
-      {
-        "title": "Sony Ten Sports 1 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Ten Sports 5 HD (BDIX)",
-        "quality": "BDIX · HD",
-        "type": "m3u8",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-      },
-      {
-        "title": "Sony Sports Ten 3 Hindi",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-      },
-      {
-        "title": "SONY SPORTS TEN 2 HD",
-        "quality": "HD",
-        "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/337/master.m3u8",
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
-      },
-      {
-        "title": "TNT Sports 1 (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "m3u8",
-        "url": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8"
       }
     ]
   },
@@ -680,7 +116,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795651200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "275/3 | Victoria trail by 12 runs",
+    "description": "394/8 | Victoria lead by 107 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -691,24 +127,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -732,7 +168,7 @@
     "time": "08:30 AM",
     "start_timestamp_ms": 1795660200000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "342/10 & 42/2 | Tasmania trail by 55 runs",
+    "description": "342/10 & 68/3 | Tasmania trail by 29 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -743,24 +179,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1653,10 +1089,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1703,10 +1139,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1753,24 +1189,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1805,24 +1241,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -1857,10 +1293,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -2043,7 +1479,7 @@
     "time": "06:00 AM",
     "start_timestamp_ms": 1795737600000,
     "timezone": "Asia/Dhaka (UTC+6)",
-    "description": "275/3 | Victoria trail by 12 runs",
+    "description": "394/8 | Victoria lead by 107 runs",
     "meta_keywords": "LIVE",
     "official_tv": [],
     "stream_ads": [
@@ -2054,24 +1490,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3062,10 +2498,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3112,10 +2548,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3162,24 +2598,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3214,10 +2650,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -3411,24 +2847,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4279,7 +3715,6 @@
     "description": "America First Field",
     "meta_keywords": "UPCOMING",
     "official_tv": [
-      "FOX",
       "FS1",
       "Apple TV"
     ],
@@ -4440,10 +3875,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4490,24 +3925,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4542,24 +3977,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4594,10 +4029,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4644,10 +4079,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -4709,16 +4144,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -4761,16 +4196,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -4813,16 +4248,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -4865,16 +4300,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -5369,6 +4804,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -5380,12 +4821,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -5421,6 +4856,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -5432,12 +4873,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -5849,16 +5284,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6191,10 +5626,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6241,24 +5676,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6293,24 +5728,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6345,10 +5780,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6395,10 +5830,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -6460,16 +5895,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6512,16 +5947,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6564,16 +5999,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6616,16 +6051,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -6969,6 +6404,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -6980,12 +6421,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7021,6 +6456,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7032,12 +6473,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7073,6 +6508,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7084,12 +6525,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7125,6 +6560,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7136,12 +6577,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7177,6 +6612,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7188,12 +6629,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7229,6 +6664,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7240,12 +6681,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7322,10 +6757,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7387,16 +6822,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -7585,6 +7020,12 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
+        "title": "beIN Sports 1 Turk",
+        "quality": "1080p",
+        "type": "ts",
+        "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad"
+      },
+      {
         "title": "beIN Sports 2",
         "quality": "Live",
         "type": "m3u8",
@@ -7596,12 +7037,6 @@
         "type": "m3u8",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      },
-      {
-        "title": "Arena Sport 1 Premium (Serbia) (BDIX)",
-        "quality": "BDIX · Live",
-        "type": "ts",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
       }
     ]
   },
@@ -7629,24 +7064,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7716,8 +7151,8 @@
     "logo1": "https://a.espncdn.com/i/teamlogos/cricket/500/3.png",
     "logo2": "https://a.espncdn.com/i/teamlogos/cricket/500/25.png",
     "date": "2026-12-01",
-    "time": "05:30 PM",
-    "start_timestamp_ms": 1796124600000,
+    "time": "02:00 PM",
+    "start_timestamp_ms": 1796112000000,
     "timezone": "Asia/Dhaka (UTC+6)",
     "description": "Buffalo Park, KuGumpo City",
     "meta_keywords": "UPCOMING",
@@ -7779,10 +7214,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7829,10 +7264,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -7894,16 +7329,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8478,10 +7913,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8528,10 +7963,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8578,10 +8013,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -8640,16 +8075,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8689,16 +8124,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8738,16 +8173,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8787,16 +8222,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8836,16 +8271,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8885,16 +8320,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8934,16 +8369,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -8983,16 +8418,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9032,16 +8467,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9081,16 +8516,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9130,16 +8565,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9589,16 +9024,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9632,16 +9067,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9675,16 +9110,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9718,16 +9153,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9761,16 +9196,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -9804,16 +9239,16 @@
         "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10249,10 +9684,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10299,24 +9734,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10351,24 +9786,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10403,24 +9838,24 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 TAMIL",
+        "title": "STAR SPORTS 2 KANNADA",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1061/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1077/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
-        "title": "STAR SPORTS 2 HINDI",
-        "quality": "Live",
+        "title": "STAR SPORTS 2 TAMIL HD",
+        "quality": "HD",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/374/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1441/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10455,10 +9890,10 @@
         "url": "https://starsportshindiii.pages.dev/720p.m3u8"
       },
       {
-        "title": "STAR SPORTS 1 TELUGU",
+        "title": "STAR SPORTS 1",
         "quality": "Live",
         "type": "m3u8",
-        "url": "http://cdn.pishow.tv/live/1063/master.m3u8",
+        "url": "http://cdn.pishow.tv/live/1065/master.m3u8",
         "user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-G975F Build/QP1A.190711.020)"
       },
       {
@@ -10521,16 +9956,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10574,16 +10009,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10623,16 +10058,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10672,16 +10107,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10721,16 +10156,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10770,16 +10205,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10819,16 +10254,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10868,16 +10303,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10917,16 +10352,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -10966,16 +10401,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11015,16 +10450,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11064,16 +10499,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11113,16 +10548,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11361,16 +10796,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11410,16 +10845,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11459,16 +10894,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11508,16 +10943,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11557,16 +10992,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   },
@@ -11606,16 +11041,16 @@
         "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
       },
       {
-        "title": "Premier Sports 2",
-        "quality": "1080p",
-        "type": "m3u8",
-        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-      },
-      {
         "title": "Premier Sports",
         "quality": "1080p",
         "type": "m3u8",
         "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      },
+      {
+        "title": "Premier Sports 2",
+        "quality": "1080p",
+        "type": "m3u8",
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
       }
     ]
   }
